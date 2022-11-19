@@ -31,11 +31,11 @@
 
 <strong>Flowchart Program 4</strong>
 
-![](Flowchart-4.jpg)
+![]()
 
 <strong>Hasil Program 4</strong>
 
-![](Screenshot-4.jpg)
+![](1.png)
 
 <p align="center">:::Rizki Nurdiansyah:::</br></p>
 <p align="center">:::____311910155____:::</br></p>
