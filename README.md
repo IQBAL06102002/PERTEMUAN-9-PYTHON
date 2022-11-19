@@ -1,4 +1,14 @@
-# PERTEMUAN-9-PYTHON
+# Nama : Muhammad Iqbal Fadillah
+
+# Kelas : TI.22 B.2
+
+# NIM : 312210586
+
+# Mata Kuliah = Bahasa Pemrograman
+
+#                                                       PERTEMUAN-9-PYTHON
+
+
 1.Pertama program akan mendeklarasikan beberapa list kosong.
 
 2.Kemudian anda akan dimintai input masukan untuk menambah list yang kosong tadi.
@@ -18,10 +28,12 @@ Lalu program akan meletakan data tersebut pada baris berdasarkan variabel "i", j
 1 nama1 nim1
 2 nama2 nim2
 Begitu pula data yang lain.
+
 8.Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data sesuai dengan index dari variabel "i".
 
 tugas1+uts1+uas1/3
 tugas2+uts2+uas2/3
+
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 10.Program selesai.
