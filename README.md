@@ -31,12 +31,9 @@
 
 <strong>Flowchart Program 4</strong>
 
-![]()
+![](2.png)
 
 <strong>Hasil Program 4</strong>
 
 ![](1.png)
 
-<p align="center">:::Rizki Nurdiansyah:::</br></p>
-<p align="center">:::____311910155____:::</br></p>
-<p align="center">:::_____TI.19.D.2_____:::</br></p>
