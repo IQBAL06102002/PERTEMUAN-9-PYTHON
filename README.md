@@ -29,11 +29,11 @@
 
 10.Program selesai.
 
-<strong>Flowchart Program 4</strong>
+<strong>Flowchart Program </strong>
 
 ![](2.png)
 
-<strong>Hasil Program 4</strong>
+<strong>Hasil Program </strong>
 
 ![](1.png)
 
