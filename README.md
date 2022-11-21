@@ -1,4 +1,4 @@
-# <p align="center">Penjelasan Program 4</p>
+# <p align="center">Penjelasan Program</p>
 
 1.Pertama program akan mendeklarasikan beberapa list kosong.
 
